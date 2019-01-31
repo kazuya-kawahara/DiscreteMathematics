@@ -5,7 +5,7 @@
 unsigned long long int st[N+1][N+1];
 unsigned long long int od[N+1][N+1];
 
-unsigned long long int strict(int m){
+unsigned long long int strict(int m){    //nのsrtictな分割の方法の総数
     int i, k;
 
     st[0][0] = 1;
@@ -25,7 +25,7 @@ unsigned long long int strict(int m){
     return st[m][m];
 }
 
-unsigned long long int odd(int m){
+unsigned long long int odd(int m){    //nのoddな分割の方法の総数
     int i, k;
 
     od[0][0] = 1;
