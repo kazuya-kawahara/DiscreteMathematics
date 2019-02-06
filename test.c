@@ -63,11 +63,11 @@ int main() {
     for(i = 1; i <= n; i++){
         if(st[i][i] == od[i][i]){
             printf("strict(%d) = %lu", i, st[i][i]);
-            printf(", od(%d) = %lu\n", i, od[i][i]);
+            printf(",odd(%d) = %lu\n", i, od[i][i]);
         }
         else{
             printf("strict(%d) = %lu", i, st[i][i]);
-            printf(", od(%d) = %lu\n", i, od[i][i]);
+            printf(",odd(%d) = %lu\n", i, od[i][i]);
             printf("Error!");
             break;
         }
