@@ -1,0 +1,1103 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.7)  12 FEB 2019 11:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex
+(c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+
+c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls:26: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (c:/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks14
+\thm@bodyfont=\toks15
+\thm@headfont=\toks16
+\thm@notefont=\toks17
+\thm@headpunct=\toks18
+\thm@preskip=\skip41
+\thm@postskip=\skip42
+\thm@headsep=\skip43
+\dth@everypar=\toks19
+)
+\c@thm=\count80
+ (c:/Users/Owner/Documents/DiscreteMathematics/kouhan.aux)
+\openout1 = `kouhan.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:5: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:9: Undefined control sequence.
+l.9 \maketitle
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character こ (U+3053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 こ
+        のレポートでは、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 この
+           レポートでは、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character レ (U+30EC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレ
+              ポートでは、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character ポ (U+30DD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポ
+                 ートでは、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポー
+                    トでは、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character ト (U+30C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポート
+                       では、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートで
+                          は、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは
+                             、授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、
+                                授業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 授 (U+6388)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、授
+                                   業中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 業 (U+696D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、授業
+                                      中の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 中 (U+4E2D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、授業中
+                                         の配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、授業中の
+                                            配布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 配 (U+914D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、授業中の配
+                                               布資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 布 (U+5E03)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 このレポートでは、授業中の配布
+                                                  資料における定理\r...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 資 (U+8CC7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...レポートでは、授業中の配布資
+                                                  料における定理\ref{...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 料 (U+6599)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...ポートでは、授業中の配布資料
+                                                  における定理\ref{rin...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...ートでは、授業中の配布資料に
+                                                  おける定理\ref{ringok...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character お (U+304A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...トでは、授業中の配布資料にお
+                                                  ける定理\ref{ringoku}�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character け (U+3051)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...では、授業中の配布資料におけ
+                                                  る定理\ref{ringoku}を�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...は、授業中の配布資料における
+                                                  定理\ref{ringoku}を証�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 定 (U+5B9A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...、授業中の配布資料における定
+                                                  理\ref{ringoku}を証明�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 理 (U+7406)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...授業中の配布資料における定理
+                                                  \ref{ringoku}を証明す�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Undefined control sequence.
+<write> ...: Reference `ringoku' on page \thepage 
+                                                  \space undefined\on@line .
+l.11 ...��布資料における定理\ref{ringoku}
+                                                  を証明する。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `ringoku' on page  undefined on input line 11.
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...��資料における定理\ref{ringoku}を
+                                                  証明する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 証 (U+8A3C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...��料における定理\ref{ringoku}を証
+                                                  明する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 明 (U+660E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...��における定理\ref{ringoku}を証明
+                                                  する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...��おける定理\ref{ringoku}を証明す
+                                                  る。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...��ける定理\ref{ringoku}を証明する
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:11: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...��る定理\ref{ringoku}を証明する。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character 定 (U+5B9A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character 理 (U+7406)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character 隣 (U+96A3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character 国 (U+56FD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character だ (U+3060)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character け (U+3051)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character 定 (U+5B9A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:13: Package inputenc Error: Unicode character 理 (U+7406)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{thm}[隣国は5つだけ定理]
+                                           
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character ど (U+3069)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     ど
+            んな地図にも、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character ん (U+3093)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どん
+               な地図にも、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな
+                  地図にも、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 地 (U+5730)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地
+                     図にも、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 図 (U+56F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図
+                        にも、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図に
+                           も、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character も (U+3082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも
+                              、5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも、
+                                 5個以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 個 (U+500B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも、5個
+                                     以下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 以 (U+4EE5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも、5個以
+                                        下の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 下 (U+4E0B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも、5個以下
+                                           の隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも、5個以下の
+                                              隣国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 隣 (U+96A3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15     どんな地図にも、5個以下の隣
+                                                 国しか持たない国が...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 国 (U+56FD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��んな地図にも、5個以下の隣国
+                                                  しか持たない国が�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��な地図にも、5個以下の隣国し
+                                                  か持たない国が少�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character か (U+304B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��地図にも、5個以下の隣国しか
+                                                  持たない国が少な�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 持 (U+6301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��図にも、5個以下の隣国しか持
+                                                  たない国が少なく�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character た (U+305F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��にも、5個以下の隣国しか持た
+                                                  ない国が少なくと�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��も、5個以下の隣国しか持たな
+                                                  い国が少なくとも�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��、5個以下の隣国しか持たない
+                                                  国が少なくとも一�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 国 (U+56FD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...��5個以下の隣国しか持たない国
+                                                  が少なくとも一つ�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character が (U+304C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...個以下の隣国しか持たない国が
+                                                  少なくとも一つは�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 少 (U+5C11)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...以下の隣国しか持たない国が少
+                                                  なくとも一つは存�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...下の隣国しか持たない国が少な
+                                                  くとも一つは存在�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character く (U+304F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...の隣国しか持たない国が少なく
+                                                  とも一つは存在す�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character と (U+3068)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...隣国しか持たない国が少なくと
+                                                  も一つは存在する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character も (U+3082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...国しか持たない国が少なくとも
+                                                  一つは存在する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...しか持たない国が少なくとも一
+                                                  つは存在する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...か持たない国が少なくとも一つ
+                                                  は存在する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...持たない国が少なくとも一つは
+                                                  存在する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 存 (U+5B58)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...たない国が少なくとも一つは存
+                                                  在する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 在 (U+5728)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...ない国が少なくとも一つは存在
+                                                  する。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...い国が少なくとも一つは存在す
+                                                  る。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...国が少なくとも一つは存在する
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:15: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...が少なくとも一つは存在する。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:22: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{c:/texlive/2018/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex:22: Undefined control sequence.
+<write> \newlabel{ringoku}{{1}{\thepage 
+                                        }}
+l.22 \end{document}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+] (c:/Users/Owner/Documents/DiscreteMathematics/kouhan.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 183 strings out of 492649
+ 2334 string characters out of 6133385
+ 57346 words of memory out of 5000000
+ 4147 multiletter control sequences out of 15000+600000
+ 4294 words of font info for 16 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,4n,21p,175b,139s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on c:/Users/Owner/Documents/DiscreteMathematics/kouhan.pdf (1 page, 27463 bytes).
+PDF statistics:
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
