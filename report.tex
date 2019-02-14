@@ -1,0 +1,71 @@
+\documentclass{jsarticle}
+\usepackage{amsthm}
+\newtheorem{lem}{補題}
+\newtheorem{fom}[lem]{公式}
+
+\begin{document}
+
+
+\title{離散構造（後半）レポート}
+\author{16B04852 川原和弥}
+\date{}
+\maketitle
+
+
+\begin{enumerate}
+
+
+\item
+\begin{enumerate}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\item $ F - E + V = 0 - 3 + 3  = 0 $
+\item $ F - E + V = 1 - 3 + 3  = 1 $
+\item $ F - E + V = 0 - 5 + 4  = -1 $
+\item $ F - E + V = 1 - 5 + 4  = 0 $
+\item $ F - E + V = 1 - 7 + 5  = -1 $
+\end{enumerate}
+
+
+\item
+\begin{proof}
+まず次の補題\ref{ringoku}を示す。
+
+\begin{lem}[隣国は5つだけ定理]
+\label{ringoku}
+どんな地図にも、$5$個以下の隣国しか持たない国が少なくとも一つは存在する。
+\end{lem}
+
+補題\ref{ringoku}の証明.　背理法により証明する。\\
+すなわち、すべての国が6個以上の隣国を持つような地図があるとする。\\
+この地図の$(面,辺,頂点)$の数を$(F,E,V)$とおくと、
+\begin{eqnarray}
+1つの頂点に集まる辺は3本以上 \Rightarrow  E \geq \frac{3}{2} V \\
+1つの面の境界になる辺は6本以上 \Rightarrow  E \geq \frac{6}{2} F
+\end{eqnarray}
+
+また任意の地図上で次の公式\ref{Euler}が成り立つ。\\
+\begin{fom}[Eulerの多面体公式]
+\label{Euler}
+$\ F - E + V = 2$
+\end{fom}
+
+(1),(2)より、
+\begin{eqnarray}
+F - E + V &\leq& \frac{2}{6} E - E + \frac{2}{3} E \nonumber \\
+&=& 0 \nonumber
+\end{eqnarray}
+
+しかしこれは公式\ref{Euler}に反する。
+
+これにより、すべての国が6個以上の隣国を持つ地図が存在しないことが示された。
+
+\qed
+
+\end{proof}
+
+\item
+
+\end{enumerate}
+
+
+\end{document}

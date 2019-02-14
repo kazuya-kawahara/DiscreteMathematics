@@ -1,13 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1549936802 "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex" "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.pdf" "kouhan" 1549936802
-  "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.aux" 1549936802 9 a94a2480d3289e625eea47cd1b285758 ""
-  "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex" 1549936796 519 b01670748cf1a2de3074434dd18fe0a7 ""
+["pdflatex"] 1550061588 "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex" "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.pdf" "kouhan" 1550061588
+  "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.aux" 1550061588 9 a94a2480d3289e625eea47cd1b285758 ""
+  "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.tex" 1550061573 1802 17d7540103db003f54b6cbaf524fe27a ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1549465200 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1549467622 2704162 7a0bfe1b6869e6081137f3dece8a4231 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1549464558 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1549464559 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1549464153 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1549464153 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1549464154 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1549464154 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1549464154 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty" 1549464148 12604 3dec726c041422879dc3268237f09026 ""
   "c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1549465578 59147 ef9dc8395fc5eca058217e3988639a48 ""
@@ -15,10 +17,10 @@
   "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1549467960 4216517 4d1690a38caacd6e6472bc3aabe6362e ""
   "c:/texlive/2018/texmf.cnf" 1549467815 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "kouhan.aux" 0 -1 0 ""
-  "kouhan.tex" 1549936796 519 b01670748cf1a2de3074434dd18fe0a7 ""
+  "kouhan.tex" 1550061573 1802 17d7540103db003f54b6cbaf524fe27a ""
   (generated)
+  "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.log"
   "kouhan.aux"
   "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.pdf"
-  "c:/Users/Owner/Documents/DiscreteMathematics/kouhan.log"
   "kouhan.pdf"
   "kouhan.log"

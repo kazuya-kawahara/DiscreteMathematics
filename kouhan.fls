@@ -18,5 +18,7 @@ OUTPUT c:/Users/Owner/Documents/DiscreteMathematics/kouhan.pdf
 INPUT c:/texlive/2018/texmf-dist/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/Users/Owner/Documents/DiscreteMathematics/kouhan.aux
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
