@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.2.7)  14 FEB 2019 13:45
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.2.7)  14 FEB 2019 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -115,24 +115,24 @@ LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <10> not available
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 31.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 33.
+(Font)              scaled to size 9.60999pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 33.
+(Font)              scaled to size 9.60999pt on input line 34.
 
 [1
 
-] (./report.aux) ) 
+] [2] (./report.aux) ) 
 Here is how much of TeX's memory you used:
  567 strings out of 493281
  5995 string characters out of 6148127
- 72977 words of memory out of 5000000
+ 73977 words of memory out of 5000000
  4563 multiletter control sequences out of 15000+600000
  12881 words of font info for 56 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 24i,6n,20p,161b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,6n,20p,161b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (1 page, 2632 bytes).
+Output written on report.dvi (2 pages, 3364 bytes).

@@ -28,11 +28,12 @@
 
 \item
 \begin{proof}
+
 まず次の補題\ref{ringoku}を示す。
 
 \begin{lem}[隣国は5つだけ定理]
 \label{ringoku}
-どんな地図にも、$5$個以下の隣国しか持たない国が少なくとも一つは存在する。
+\begin{eqnarray} どんな地図にも、5個以下の隣国しか持たない国が少なくとも一つは存在する。 \nonumber \end{eqnarray}
 \end{lem}
 
 補題\ref{ringoku}の証明.　背理法により証明する。\\
@@ -42,24 +43,35 @@
 1つの頂点に集まる辺は3本以上 \Rightarrow  E \geq \frac{3}{2} V \\
 1つの面の境界になる辺は6本以上 \Rightarrow  E \geq \frac{6}{2} F
 \end{eqnarray}
-
-また任意の地図上で次の公式\ref{Euler}が成り立つ。\\
+また任意の地図上で次の公式\ref{Euler}が成り立つ。
 \begin{fom}[Eulerの多面体公式]
 \label{Euler}
-$\ F - E + V = 2$
+\begin{eqnarray} F - E + V = 2 \end{eqnarray}
 \end{fom}
-
 (1),(2)より、
 \begin{eqnarray}
-F - E + V &\leq& \frac{2}{6} E - E + \frac{2}{3} E \nonumber \\
-&=& 0 \nonumber
+F - E + V \leq \frac{2}{6} E - E + \frac{2}{3} E = 0 \nonumber
 \end{eqnarray}
-
-しかしこれは公式\ref{Euler}に反する。
-
+しかしこれは(3)に反する。
 これにより、すべての国が6個以上の隣国を持つ地図が存在しないことが示された。
+\qed \\
 
-\qed
+以上の補題\ref{ringoku}を踏まえ、問題である$5$色定理を示す。
+
+地図上の国の数$N$に関する帰納法により証明する。
+\begin{enumerate}
+\item $ N = 1 $のとき\\
+任意の色で塗ればよく、自明である。
+\item $ N = k $で5色定理が成り立つとする。\\
+$ N = k + 1 $である地図Mを考える。
+補題\ref{ringoku}によりMには隣国が$5$個以下の国が存在するから、その国をCとする。
+\begin{enumerate}
+\item
+\item
+
+\end{enumerate}
+
+\end{enumerate}
 
 \end{proof}
 
