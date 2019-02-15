@@ -2,6 +2,7 @@
 \usepackage{amsthm}
 \newtheorem{lem}{補題}
 \newtheorem{fom}[lem]{公式}
+\usepackage{amsmath,amssymb}
 
 \begin{document}
 
@@ -13,7 +14,7 @@
 
 
 \begin{enumerate}
-
+\setlength{\itemsep}{0.4cm}
 
 \item
 \begin{enumerate}
@@ -63,26 +64,38 @@ F - E + V \leq \frac{2}{6} E - E + \frac{2}{3} E = 0 \nonumber
 \item $ N = 1 $のとき\\
 任意の色で塗ればよく、自明である。
 \item $ N = k $で5色定理が成り立つとする。\\
-$ N($M$) = k + 1 $である地図Mを$5$色で塗ることを考える。
-補題\ref{ringoku}によりMには隣国が$5$個以下の国が存在するから、その国をCとする。
-MからCを除いた地図をM$'$とすると、$ N($M$') = k + 1 $だから、帰納法の仮定によりM$'$は$5$色で塗り分けられる。
+$ N(M) = k + 1 $である地図$M$を$5$色で塗ることを考える。
+補題\ref{ringoku}により$M$には隣国が$5$個以下の国が存在するから、その国を$C(\in M)$とする。
+$M$から$C$を除いた地図を$M'(\subsetneq M)$とすると、$ N(M') = k $だから、帰納法の仮定により$M'$は$5$色で塗り分けられる。
 \begin{enumerate}
-\item Cが5個の隣国を持ち、全て異なる色で塗られているとき
+\item $C$が5個の隣国を持ち、全て異なる色で塗られているとき\\
+$C$の隣国を時計回りに$C_1,\cdots,C_5$として、それぞれの色を$c_1,\cdots,c_5$とする。
+$C_2$から$c_2$と$c_5$のみをたどって到達可能な国の集合を$S(\subsetneq M')$とし、
+$C_1$から$c_1$と$c_3$のみをたどって到達可能な国の集合を$S'(\subsetneq M')$とする。
 \begin{enumerate}
-\item
-\item
-
+\item $C_5\notin S$のとき\\
+$S$の$c_2$と$c_5$を反転させ、$C$を$c_2$で塗ればよい。
+\item $C_5\in S$のとき\\
+$S$により$C_1$と$C_3$は分断されているから$C_3\notin S'$である。
+したがってA.と同様にして$S'$の$c_1$と$c_3$を反転させ、$C$を$c_1$で塗ればよい。
 \end{enumerate}
 \item そのほかの場合\\
-Cの隣国に使われていない色でCを塗れば良い。
-
+$C$の隣国に使われていない色で$C$を塗ればよい。\\
 \end{enumerate}
-
 \end{enumerate}
-
+(a),(b)より、数学的帰納法から任意の地図上で$5$色定理は肯定される。
 \end{proof}
 
 \item
+\begin{enumerate}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\item $ w(L_1) = 3 $、$ \langle L_1 \rangle = -A^5 - A^{-3} + A^{-7} $より$ V(L_1) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) $
+\item $ w(L_2) = 3 $、$ \langle L_2 \rangle = -A^5 - A^{-3} + A^{-7} $より$ V(L_2) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) $
+\item $ w(L_3) = 0 $、$ \langle L_3 \rangle = A^8 - A^4 + 1 - A^{-4} + A^{-8} $より$ V(L_3) = A^8 - A^4 + 1 - A^{-4} + A^{-8} $
+\item $ w(L_4) = 0 $、$ \langle L_4 \rangle = A^8 - A^4 + 1 - A^{-4} + A^{-8} $より$ V(L_4) = A^8 - A^4 + 1 - A^{-4} + A^{-8} $
+\item $ w(L_5) = 3 $、$ \langle L_5 \rangle = -A^5 - A^{-3} + A^{-7} $より$ V(L_5) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) $
+
+\end{enumerate}
 
 \end{enumerate}
 
