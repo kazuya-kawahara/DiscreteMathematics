@@ -3,6 +3,7 @@
 \newtheorem{lem}{補題}
 \newtheorem{fom}[lem]{公式}
 \usepackage{amsmath,amssymb}
+\usepackage[dvipdfmx]{graphicx}
 
 \begin{document}
 
@@ -49,11 +50,11 @@
 \label{Euler}
 \begin{eqnarray} F - E + V = 2 \end{eqnarray}
 \end{fom}
-(1),(2)より、
+式(1),(2)より、
 \begin{eqnarray}
 F - E + V \leq \frac{2}{6} E - E + \frac{2}{3} E = 0 \nonumber
 \end{eqnarray}
-しかしこれは(3)に反する。
+しかしこれは式(3)に反する。
 これにより、すべての国が6個以上の隣国を持つ地図が存在しないことが示された。
 \qed \\
 
@@ -90,12 +91,50 @@ $C$の隣国に使われていない色で$C$を塗ればよい。\\
 \begin{enumerate}
 \renewcommand{\labelenumii}{(\arabic{enumii})}
 \item $ w(L_1) = 3 $、$ \langle L_1 \rangle = -A^5 - A^{-3} + A^{-7} $より$ V(L_1) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) $
-\item $ w(L_2) = 3 $、$ \langle L_2 \rangle = -A^5 - A^{-3} + A^{-7} $より$ V(L_2) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) $
+\item
+ジョーンズ多項式は不変量であり、図形のイソトピーとライマイスター移動に関して不変である。
+$L_1$,$L_2$は互いにイソトピックだから
+\begin{eqnarray} V(L_2) = V(L_1) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) \nonumber \end{eqnarray}
 \item $ w(L_3) = 0 $、$ \langle L_3 \rangle = A^8 - A^4 + 1 - A^{-4} + A^{-8} $より$ V(L_3) = A^8 - A^4 + 1 - A^{-4} + A^{-8} $
-\item $ w(L_4) = 0 $、$ \langle L_4 \rangle = A^8 - A^4 + 1 - A^{-4} + A^{-8} $より$ V(L_4) = A^8 - A^4 + 1 - A^{-4} + A^{-8} $
-\item $ w(L_5) = 3 $、$ \langle L_5 \rangle = -A^5 - A^{-3} + A^{-7} $より$ V(L_5) = (-A^3)^{-3}(-A^5 - A^{-3} + A^{-7}) $
-
+\item
+ある結び目$L$とその鏡像$R$のジョーンズ多項式$V(L),V(R)$の関係を考える。\\
+まず正交点と負交点が逆転するから\begin{eqnarray} w(R) = - w(L) \end{eqnarray}
+そして同様の理由により、カウフマン括弧のルール(K1)の$A$と$A^{-1}$が逆転するから\begin{eqnarray} \langle R \rangle (A) = \langle L \rangle (A^{-1}) \end{eqnarray}
+式(4),(5)より
+\begin{eqnarray}
+V(R)(A) &=& (-A^3)^{-w(R)}\langle R \rangle (A) \nonumber \\
+&=& (-(A^{-1})^3)^{-w(L)}\langle L \rangle (A^{-1}) \nonumber \\
+&=& V(L)(A^{-1}) \nonumber
+\end{eqnarray}
+したがって$V(L),V(R)$は$A,A^{-1}$を置き換えた関係にある。\\
+$L_4$は$L_3$の鏡像であるから、\begin{eqnarray} V(L_4) = V(L_3)(A^{-1}) = A^8 - A^4 + 1 - A^{-4} + A^{-8} \nonumber \end{eqnarray}
+\item
+間に交差を挟まないように結び目$L,L'$の和をとる。\\
+このとき交点の数はその和となるので、\begin{eqnarray} w(L \times L') = w(L) + w(L') \end{eqnarray}
+また$L'$側を固定したまま$L$の方から$\langle L \times L' \rangle$を展開することを考えると、$\langle L \rangle$で最後に残る$\langle \bigcirc \rangle$を$\langle L' \rangle$に置換したものとなるので、
+\begin{eqnarray} \langle L \times L' \rangle = \langle L \rangle \langle L' \rangle \end{eqnarray}
+式(6),(7)より
+\begin{eqnarray}
+V(L \times L') &=& (-A^3)^{-w(L \times L')}\langle L \times L' \rangle \nonumber \\
+&=& (-A^3)^{-(w(L) + w(L'))}\langle L \rangle \langle L' \rangle \nonumber \\
+&=& (-A^3)^{-w(L)}\langle L \rangle (-A^3)^{-w(L')}\langle L' \rangle \nonumber \\
+&=& V(L)V(L') \nonumber
+\end{eqnarray}
+$L_1$の鏡像を$R_1$とすると$L_5 = R_1 \times L_3$であるから、
+\begin{eqnarray}
+V(L_5) &=& V(R_1 \times L_3) \nonumber \\
+&=& V(R_1)V(L_3) \nonumber \\
+&=& V(L_1)_{A \to A^{-1}}V(L_3) \nonumber \\
+&=& (-A^{-3})^{-3}(-A^{-5} - A^3 + A^7)(A^8 - A^4 + 1 - A^{-4} + A^{-8}) \nonumber \\ \nonumber
+\end{eqnarray}
 \end{enumerate}
+
+2.\\
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[clip,width=14cm]{2.jpg}
+\end{center}
+\end{figure}
 
 \end{enumerate}
 
